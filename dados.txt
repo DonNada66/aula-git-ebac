@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Gabriel
+-Profissão: Analista de Suporte
+-Cidade: São Miguel do Oeste - SC
+-O que faz nas horas vaga: Assito filmes, leio livros, vídeo games
+-Feedback sobre o curso Qualidade de Software: Curso muito bem explicado e que traz uma ótima visão do trabalho de um QA
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma muito intuitiva e com fácil navegabilidade
 
 Obrigado!!!
 
