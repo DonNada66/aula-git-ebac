@@ -7,6 +7,4 @@ Dados do aluno
 -Feedback sobre o curso Qualidade de Software: Curso muito bem explicado e que traz uma ótima visão do trabalho de um QA
 -Feedback sobre a plataforma de estudo da EBAC: Plataforma muito intuitiva e com fácil navegabilidade
 
-Obrigado!!!
-
 
